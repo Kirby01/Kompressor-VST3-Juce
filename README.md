@@ -1,5 +1,5 @@
 # Kompressor<br>
 Low Distortion Soft Knee Compressor.
-<br><img src="https://github.com/Kirby01/KFuzz-/blob/main/kfuzz.png?raw=true"><br>
+<br><img src="https://github.com/Kirby01/Kompressor-VST3-Juce/blob/main/Kompress.png">
 
 
